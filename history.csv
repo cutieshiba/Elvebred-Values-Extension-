@@ -25070,3 +25070,250 @@ date,pet_name,variant,value
 2026-10-15,Zombie Buffalo,N_FR,49
 2026-10-15,Zombie Buffalo,N_NP,51
 2026-10-15,Zombie Buffalo,N_R,48
+2026-10-16,Arctic Fox,M_F,83.9
+2026-10-16,Arctic Fox,M_FR,85
+2026-10-16,Arctic Fox,M_NP,88
+2026-10-16,Arctic Fox,M_R,83
+2026-10-16,Arctic Fox,N_F,22.5
+2026-10-16,Arctic Fox,N_FR,23.5
+2026-10-16,Arctic Fox,N_NP,22.5
+2026-10-16,Arctic Fox,N_R,22.5
+2026-10-16,Arctic Fox,Regular_F,8.15
+2026-10-16,Arctic Fox,Regular_FR,9.25
+2026-10-16,Arctic Fox,Regular_NP,7.75
+2026-10-16,Arctic Reindeer,M_F,398
+2026-10-16,Arctic Reindeer,M_FR,388
+2026-10-16,Arctic Reindeer,M_NP,603.5
+2026-10-16,Arctic Reindeer,M_R,398
+2026-10-16,Arctic Reindeer,N_F,106
+2026-10-16,Arctic Reindeer,N_FR,106
+2026-10-16,Arctic Reindeer,N_NP,142
+2026-10-16,Arctic Reindeer,N_R,106
+2026-10-16,Aurora Fox,M_F,150.9
+2026-10-16,Aurora Fox,M_FR,152
+2026-10-16,Aurora Fox,M_NP,149
+2026-10-16,Aurora Fox,M_R,150
+2026-10-16,Aurora Fox,N_F,36.2
+2026-10-16,Aurora Fox,N_FR,37
+2026-10-16,Aurora Fox,N_NP,35.25
+2026-10-16,Aurora Fox,N_R,36.2
+2026-10-16,Aurora Fox,Regular_F,9.45
+2026-10-16,Aurora Fox,Regular_FR,10
+2026-10-16,Aurora Fox,Regular_NP,9
+2026-10-16,Blazing Lion,M_F,2618.9
+2026-10-16,Blazing Lion,M_FR,2620
+2026-10-16,Blazing Lion,M_NP,2822
+2026-10-16,Blazing Lion,M_R,2618
+2026-10-16,Blazing Lion,N_F,696
+2026-10-16,Blazing Lion,N_FR,697
+2026-10-16,Blazing Lion,N_NP,705
+2026-10-16,Blazing Lion,N_R,696
+2026-10-16,Bobageist,M_F,3.63
+2026-10-16,Bobageist,M_FR,4.5
+2026-10-16,Bobageist,M_NP,2.75
+2026-10-16,Bobageist,M_R,3.63
+2026-10-16,Bobageist,N_F,0.93
+2026-10-16,Bobageist,N_FR,1.2
+2026-10-16,Bobageist,N_NP,0.65
+2026-10-16,Bobageist,N_R,0.93
+2026-10-16,Bobageist,Regular_F,0.29
+2026-10-16,Bobageist,Regular_FR,0.54
+2026-10-16,Bobageist,Regular_NP,0.09
+2026-10-16,Bolt,M_F,1.55
+2026-10-16,Bolt,M_FR,2.3
+2026-10-16,Bolt,M_NP,0.8
+2026-10-16,Bolt,M_R,1.55
+2026-10-16,Bolt,N_F,0.45
+2026-10-16,Bolt,N_FR,0.73
+2026-10-16,Bolt,N_NP,0.17
+2026-10-16,Bolt,N_R,0.45
+2026-10-16,Bubblegeist,M_F,8.75
+2026-10-16,Bubblegeist,M_FR,9.85
+2026-10-16,Bubblegeist,M_NP,6.85
+2026-10-16,Bubblegeist,M_R,7.85
+2026-10-16,Bubblegeist,N_F,1.7
+2026-10-16,Bubblegeist,N_FR,2.5
+2026-10-16,Bubblegeist,N_NP,1.45
+2026-10-16,Bubblegeist,N_R,1.7
+2026-10-16,Bubblegeist,Regular_F,0.6
+2026-10-16,Bubblegeist,Regular_FR,1
+2026-10-16,Bubblegeist,Regular_NP,0.3
+2026-10-16,Candicorn,M_F,142.9
+2026-10-16,Candicorn,M_FR,144
+2026-10-16,Candicorn,M_NP,141
+2026-10-16,Candicorn,M_R,142
+2026-10-16,Candicorn,N_F,41.2
+2026-10-16,Candicorn,N_FR,42
+2026-10-16,Candicorn,N_NP,40.25
+2026-10-16,Candicorn,N_R,41.2
+2026-10-16,Candicorn,Regular_F,13.45
+2026-10-16,Candicorn,Regular_FR,14
+2026-10-16,Candicorn,Regular_NP,13
+2026-10-16,Chocolate Chip Bat Dragon,M_F,553.9
+2026-10-16,Chocolate Chip Bat Dragon,M_FR,555
+2026-10-16,Chocolate Chip Bat Dragon,M_NP,568
+2026-10-16,Chocolate Chip Bat Dragon,M_R,553
+2026-10-16,Chocolate Chip Bat Dragon,Regular_F,46.85
+2026-10-16,Chocolate Chip Bat Dragon,Regular_FR,48
+2026-10-16,Chocolate Chip Bat Dragon,Regular_NP,46
+2026-10-16,Cryptid,M_F,1248.9
+2026-10-16,Cryptid,M_FR,1250
+2026-10-16,Cryptid,M_NP,1301
+2026-10-16,Cryptid,M_R,1248
+2026-10-16,Dalmatian,M_NP,904
+2026-10-16,Dalmatian,Regular_F,64.4
+2026-10-16,Dalmatian,Regular_FR,65.5
+2026-10-16,Dalmatian,Regular_NP,64
+2026-10-16,Frost Unicorn,M_F,370.9
+2026-10-16,Frost Unicorn,M_FR,372
+2026-10-16,Frost Unicorn,M_NP,377
+2026-10-16,Frost Unicorn,M_R,370
+2026-10-16,Frost Unicorn,N_F,91
+2026-10-16,Frost Unicorn,N_FR,92
+2026-10-16,Frost Unicorn,N_NP,90
+2026-10-16,Frost Unicorn,N_R,91
+2026-10-16,Frost Unicorn,Regular_F,22.95
+2026-10-16,Frost Unicorn,Regular_FR,23.5
+2026-10-16,Frost Unicorn,Regular_NP,22.5
+2026-10-16,Giant Panda,M_F,2978.9
+2026-10-16,Giant Panda,M_FR,2980
+2026-10-16,Giant Panda,M_NP,3053
+2026-10-16,Giant Panda,M_R,2978
+2026-10-16,Giant Panda,N_F,756
+2026-10-16,Giant Panda,N_FR,757
+2026-10-16,Giant Panda,N_NP,762
+2026-10-16,Giant Panda,N_R,756
+2026-10-16,Haetae,M_F,1923.9
+2026-10-16,Haetae,M_FR,1925
+2026-10-16,Haetae,M_NP,1975
+2026-10-16,Haetae,M_R,1923
+2026-10-16,Hedgehog,M_NP,1165.5
+2026-10-16,Hedgehog,Regular_F,75.9
+2026-10-16,Hedgehog,Regular_FR,77
+2026-10-16,Hedgehog,Regular_NP,75.5
+2026-10-16,Jekyll Hydra,M_F,688.9
+2026-10-16,Jekyll Hydra,M_FR,690
+2026-10-16,Jekyll Hydra,M_NP,720
+2026-10-16,Jekyll Hydra,M_R,688
+2026-10-16,Jekyll Hydra,N_F,185
+2026-10-16,Jekyll Hydra,N_FR,186
+2026-10-16,Jekyll Hydra,N_NP,184
+2026-10-16,Jekyll Hydra,N_R,185
+2026-10-16,Jester Dragon,M_F,186.9
+2026-10-16,Jester Dragon,M_FR,188
+2026-10-16,Jester Dragon,M_NP,185
+2026-10-16,Jester Dragon,M_R,186
+2026-10-16,Jester Dragon,N_F,45
+2026-10-16,Jester Dragon,N_FR,46
+2026-10-16,Jester Dragon,N_NP,43.5
+2026-10-16,Jester Dragon,N_R,44.5
+2026-10-16,Jester Dragon,Regular_F,11
+2026-10-16,Jester Dragon,Regular_FR,11.75
+2026-10-16,Jester Dragon,Regular_NP,10.5
+2026-10-16,Jousting Horse,M_F,112.9
+2026-10-16,Jousting Horse,M_FR,114
+2026-10-16,Jousting Horse,M_NP,111
+2026-10-16,Jousting Horse,M_R,112
+2026-10-16,Jousting Horse,N_F,27.2
+2026-10-16,Jousting Horse,N_FR,28
+2026-10-16,Jousting Horse,N_NP,26.25
+2026-10-16,Jousting Horse,N_R,27.2
+2026-10-16,Jousting Horse,Regular_F,6.6
+2026-10-16,Jousting Horse,Regular_FR,7
+2026-10-16,Jousting Horse,Regular_NP,6.25
+2026-10-16,Midnight Dragon,M_F,134.9
+2026-10-16,Midnight Dragon,M_FR,136
+2026-10-16,Midnight Dragon,M_NP,133
+2026-10-16,Midnight Dragon,M_R,134
+2026-10-16,Midnight Dragon,N_F,32.2
+2026-10-16,Midnight Dragon,N_FR,33
+2026-10-16,Midnight Dragon,N_NP,31.25
+2026-10-16,Midnight Dragon,N_R,32.2
+2026-10-16,Midnight Dragon,Regular_F,7.7
+2026-10-16,Midnight Dragon,Regular_FR,8.25
+2026-10-16,Munchkin Cat,M_F,90.9
+2026-10-16,Munchkin Cat,M_FR,92
+2026-10-16,Munchkin Cat,M_NP,89
+2026-10-16,Munchkin Cat,M_R,90
+2026-10-16,Orchid Butterfly,M_F,1878.9
+2026-10-16,Orchid Butterfly,M_FR,1880
+2026-10-16,Orchid Butterfly,M_NP,1930
+2026-10-16,Orchid Butterfly,M_R,1878
+2026-10-16,Orchid Butterfly,N_F,476
+2026-10-16,Orchid Butterfly,N_FR,477
+2026-10-16,Orchid Butterfly,N_NP,485
+2026-10-16,Orchid Butterfly,N_R,476
+2026-10-16,Pelican,M_F,576.9
+2026-10-16,Pelican,M_FR,578
+2026-10-16,Pelican,M_NP,593
+2026-10-16,Pelican,M_R,576
+2026-10-16,Pelican,N_F,143
+2026-10-16,Pelican,N_FR,144
+2026-10-16,Pelican,N_NP,147
+2026-10-16,Pelican,N_R,143
+2026-10-16,Pelican,Regular_F,36.25
+2026-10-16,Pelican,Regular_FR,37
+2026-10-16,Pelican,Regular_NP,37
+2026-10-16,Peppermint Penguin,M_F,533.9
+2026-10-16,Peppermint Penguin,M_FR,535
+2026-10-16,Peppermint Penguin,M_NP,550
+2026-10-16,Peppermint Penguin,M_R,533
+2026-10-16,Sakura Spirit,M_F,146.9
+2026-10-16,Sakura Spirit,M_FR,148
+2026-10-16,Sakura Spirit,M_NP,145
+2026-10-16,Sakura Spirit,M_R,146
+2026-10-16,Sakura Spirit,N_F,35.2
+2026-10-16,Sakura Spirit,N_FR,36
+2026-10-16,Sakura Spirit,N_NP,34.25
+2026-10-16,Sakura Spirit,N_R,35.2
+2026-10-16,Skelicorn,M_F,7.4
+2026-10-16,Skelicorn,M_FR,8.5
+2026-10-16,Skelicorn,M_NP,5.5
+2026-10-16,Skelicorn,M_R,6.5
+2026-10-16,Skelicorn,N_F,1.35
+2026-10-16,Skelicorn,N_FR,2.15
+2026-10-16,Skelicorn,N_NP,1.15
+2026-10-16,Skelicorn,N_R,1.35
+2026-10-16,Skelicorn,Regular_F,0.53
+2026-10-16,Skelicorn,Regular_FR,0.93
+2026-10-16,Skelicorn,Regular_NP,0.23
+2026-10-16,Strawberry Shortcake Bat Dragon,M_F,503.9
+2026-10-16,Strawberry Shortcake Bat Dragon,M_FR,505
+2026-10-16,Strawberry Shortcake Bat Dragon,M_NP,518
+2026-10-16,Strawberry Shortcake Bat Dragon,M_R,503
+2026-10-16,Strawberry Shortcake Bat Dragon,Regular_F,47.85
+2026-10-16,Strawberry Shortcake Bat Dragon,Regular_FR,49
+2026-10-16,Strawberry Shortcake Bat Dragon,Regular_NP,47
+2026-10-16,Sugar Glider,Regular_F,28.95
+2026-10-16,Sugar Glider,Regular_FR,29.5
+2026-10-16,Sugar Glider,Regular_NP,28.5
+2026-10-16,Undead Jousting Horse,M_F,768.9
+2026-10-16,Undead Jousting Horse,M_FR,770
+2026-10-16,Undead Jousting Horse,M_NP,800
+2026-10-16,Undead Jousting Horse,M_R,768
+2026-10-16,Undead Jousting Horse,N_F,219
+2026-10-16,Undead Jousting Horse,N_FR,220
+2026-10-16,Undead Jousting Horse,N_NP,218
+2026-10-16,Undead Jousting Horse,N_R,219
+2026-10-16,Velocirooster,M_F,166.9
+2026-10-16,Velocirooster,M_FR,168
+2026-10-16,Velocirooster,M_NP,165
+2026-10-16,Velocirooster,M_R,166
+2026-10-16,Velocirooster,N_F,40
+2026-10-16,Velocirooster,N_FR,41
+2026-10-16,Velocirooster,N_NP,39
+2026-10-16,Velocirooster,N_R,40
+2026-10-16,Velocirooster,Regular_F,9.7
+2026-10-16,Velocirooster,Regular_FR,10.25
+2026-10-16,Velocirooster,Regular_NP,9.25
+2026-10-16,Zombie Buffalo,M_F,184.9
+2026-10-16,Zombie Buffalo,M_FR,186
+2026-10-16,Zombie Buffalo,M_NP,206
+2026-10-16,Zombie Buffalo,M_R,184
+2026-10-16,Zombie Buffalo,N_F,47
+2026-10-16,Zombie Buffalo,N_FR,48
+2026-10-16,Zombie Buffalo,N_NP,50
+2026-10-16,Zombie Buffalo,N_R,47
+2026-10-16,Zombie Buffalo,Regular_F,13.35
+2026-10-16,Zombie Buffalo,Regular_FR,13.75
+2026-10-16,Zombie Buffalo,Regular_NP,13.5

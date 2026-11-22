@@ -40850,3 +40850,564 @@ date,pet_name,variant,value
 2026-11-21,Zombie Buffalo,N_FR,27
 2026-11-21,Zombie Buffalo,N_NP,28
 2026-11-21,Zombie Buffalo,N_R,26
+2026-11-22,African Wild Dog,M_F,2048.9
+2026-11-22,African Wild Dog,M_FR,2050
+2026-11-22,African Wild Dog,M_NP,2129
+2026-11-22,African Wild Dog,M_R,2048
+2026-11-22,African Wild Dog,Regular_F,157.9
+2026-11-22,African Wild Dog,Regular_FR,159
+2026-11-22,African Wild Dog,Regular_NP,157
+2026-11-22,Alpaca,M_F,426.9
+2026-11-22,Alpaca,M_FR,428
+2026-11-22,Alpaca,M_NP,426
+2026-11-22,Alpaca,M_R,426
+2026-11-22,Alpaca,N_F,107
+2026-11-22,Alpaca,N_FR,108
+2026-11-22,Alpaca,N_NP,106
+2026-11-22,Alpaca,N_R,107
+2026-11-22,Alpaca,Regular_F,28.95
+2026-11-22,Alpaca,Regular_FR,29.5
+2026-11-22,Alpaca,Regular_NP,28.5
+2026-11-22,Arctic Dusk Dragon,M_F,82.9
+2026-11-22,Arctic Dusk Dragon,M_FR,84
+2026-11-22,Arctic Dusk Dragon,M_NP,81
+2026-11-22,Arctic Dusk Dragon,M_R,82
+2026-11-22,Arctic Dusk Dragon,N_F,20.2
+2026-11-22,Arctic Dusk Dragon,N_FR,21
+2026-11-22,Arctic Dusk Dragon,N_NP,19.25
+2026-11-22,Arctic Dusk Dragon,N_R,20.2
+2026-11-22,Arctic Dusk Dragon,Regular_F,4.9
+2026-11-22,Arctic Dusk Dragon,Regular_FR,5.35
+2026-11-22,Arctic Dusk Dragon,Regular_NP,4.5
+2026-11-22,Arctic Reindeer,M_NP,932.4
+2026-11-22,Arctic Reindeer,N_F,166
+2026-11-22,Arctic Reindeer,N_FR,166
+2026-11-22,Arctic Reindeer,N_NP,222
+2026-11-22,Arctic Reindeer,N_R,166
+2026-11-22,Arctic Reindeer,Regular_F,82.85
+2026-11-22,Arctic Reindeer,Regular_FR,84
+2026-11-22,Arctic Reindeer,Regular_NP,84.5
+2026-11-22,Aurora Fox,M_F,112.9
+2026-11-22,Aurora Fox,M_FR,114
+2026-11-22,Aurora Fox,M_NP,111
+2026-11-22,Aurora Fox,M_R,112
+2026-11-22,Aurora Fox,N_F,27.2
+2026-11-22,Aurora Fox,N_FR,28
+2026-11-22,Aurora Fox,N_NP,26.25
+2026-11-22,Aurora Fox,N_R,27.2
+2026-11-22,Aurora Fox,Regular_F,6.95
+2026-11-22,Aurora Fox,Regular_FR,7.5
+2026-11-22,Aurora Fox,Regular_NP,6.5
+2026-11-22,Balloon Unicorn,M_NP,2228
+2026-11-22,Balloon Unicorn,Regular_F,168.85
+2026-11-22,Balloon Unicorn,Regular_FR,170
+2026-11-22,Balloon Unicorn,Regular_NP,168
+2026-11-22,Blazing Lion,M_NP,2263
+2026-11-22,Blazing Lion,Regular_F,140.85
+2026-11-22,Blazing Lion,Regular_FR,142
+2026-11-22,Blazing Lion,Regular_NP,143
+2026-11-22,Caelum Cervi,M_F,116.9
+2026-11-22,Caelum Cervi,M_FR,118
+2026-11-22,Caelum Cervi,M_NP,123
+2026-11-22,Caelum Cervi,M_R,116
+2026-11-22,Caelum Cervi,N_F,28.2
+2026-11-22,Caelum Cervi,N_FR,29
+2026-11-22,Caelum Cervi,N_NP,27.25
+2026-11-22,Caelum Cervi,N_R,28.2
+2026-11-22,Caelum Cervi,Regular_F,6.7
+2026-11-22,Caelum Cervi,Regular_FR,7.25
+2026-11-22,Caelum Cervi,Regular_NP,6.25
+2026-11-22,Candyfloss Chick,M_F,328.9
+2026-11-22,Candyfloss Chick,M_FR,330
+2026-11-22,Candyfloss Chick,M_NP,335
+2026-11-22,Candyfloss Chick,M_R,328
+2026-11-22,Candyfloss Chick,N_F,82
+2026-11-22,Candyfloss Chick,N_FR,83
+2026-11-22,Candyfloss Chick,N_NP,81
+2026-11-22,Candyfloss Chick,N_R,82
+2026-11-22,Candyfloss Chick,Regular_F,22.45
+2026-11-22,Candyfloss Chick,Regular_FR,23
+2026-11-22,Candyfloss Chick,Regular_NP,22
+2026-11-22,Caterpillar,M_F,230.9
+2026-11-22,Caterpillar,M_FR,232
+2026-11-22,Caterpillar,M_NP,235
+2026-11-22,Caterpillar,M_R,230
+2026-11-22,Caterpillar,N_F,58
+2026-11-22,Caterpillar,N_FR,59
+2026-11-22,Caterpillar,N_NP,57
+2026-11-22,Caterpillar,N_R,58
+2026-11-22,Catte,M_F,23.3
+2026-11-22,Catte,M_FR,24.4
+2026-11-22,Catte,M_NP,21.4
+2026-11-22,Catte,M_R,22.4
+2026-11-22,Catte,N_F,5.3
+2026-11-22,Catte,N_FR,5.85
+2026-11-22,Catte,N_NP,4.75
+2026-11-22,Catte,N_R,5.3
+2026-11-22,Catte,Regular_F,1.25
+2026-11-22,Catte,Regular_FR,1.55
+2026-11-22,Catte,Regular_NP,1
+2026-11-22,Chocolate Chip Bat Dragon,M_F,583.9
+2026-11-22,Chocolate Chip Bat Dragon,M_FR,585
+2026-11-22,Chocolate Chip Bat Dragon,M_NP,598
+2026-11-22,Chocolate Chip Bat Dragon,M_R,583
+2026-11-22,Chocolate Chip Bat Dragon,N_F,184
+2026-11-22,Chocolate Chip Bat Dragon,N_FR,185
+2026-11-22,Chocolate Chip Bat Dragon,N_NP,185
+2026-11-22,Chocolate Chip Bat Dragon,N_R,184
+2026-11-22,Chocolate Chip Bat Dragon,Regular_F,75.85
+2026-11-22,Chocolate Chip Bat Dragon,Regular_FR,77
+2026-11-22,Chocolate Chip Bat Dragon,Regular_NP,75
+2026-11-22,Christmas Egg,Regular_NP,21.5
+2026-11-22,Christmas Pudding Pup,M_F,116.9
+2026-11-22,Christmas Pudding Pup,M_FR,118
+2026-11-22,Christmas Pudding Pup,M_NP,115
+2026-11-22,Christmas Pudding Pup,M_R,116
+2026-11-22,Christmas Pudding Pup,N_F,28
+2026-11-22,Christmas Pudding Pup,N_FR,29
+2026-11-22,Christmas Pudding Pup,N_NP,27
+2026-11-22,Christmas Pudding Pup,N_R,28
+2026-11-22,Christmas Pudding Pup,Regular_F,6.85
+2026-11-22,Christmas Pudding Pup,Regular_FR,7.25
+2026-11-22,Christmas Pudding Pup,Regular_NP,6.5
+2026-11-22,Copycat,M_F,108.9
+2026-11-22,Copycat,M_FR,110
+2026-11-22,Copycat,M_NP,107
+2026-11-22,Copycat,M_R,108
+2026-11-22,Copycat,N_F,26.2
+2026-11-22,Copycat,N_FR,27
+2026-11-22,Copycat,N_NP,25.25
+2026-11-22,Copycat,N_R,26.2
+2026-11-22,Copycat,Regular_F,6.2
+2026-11-22,Copycat,Regular_FR,6.75
+2026-11-22,Copycat,Regular_NP,5.75
+2026-11-22,Cow,M_F,246.9
+2026-11-22,Cow,M_FR,248
+2026-11-22,Cow,M_NP,278
+2026-11-22,Cow,M_R,246
+2026-11-22,Cryptid,M_NP,1152
+2026-11-22,Cryptid,N_F,296
+2026-11-22,Cryptid,N_FR,297
+2026-11-22,Cryptid,N_NP,295
+2026-11-22,Cryptid,N_R,296
+2026-11-22,Cryptid,Regular_F,126.85
+2026-11-22,Cryptid,Regular_FR,128
+2026-11-22,Cryptid,Regular_NP,126
+2026-11-22,Dalmatian,M_NP,948.5
+2026-11-22,Dalmatian,N_F,232.5
+2026-11-22,Dalmatian,N_FR,233
+2026-11-22,Dalmatian,N_NP,243
+2026-11-22,Dalmatian,N_R,232.5
+2026-11-22,Dalmatian,Regular_F,98.9
+2026-11-22,Dalmatian,Regular_FR,100
+2026-11-22,Dalmatian,Regular_NP,98.5
+2026-11-22,Dango Penguins,M_F,56.9
+2026-11-22,Dango Penguins,M_FR,58
+2026-11-22,Dango Penguins,M_NP,55
+2026-11-22,Dango Penguins,M_R,56
+2026-11-22,Dango Penguins,N_F,13.2
+2026-11-22,Dango Penguins,N_FR,14
+2026-11-22,Dango Penguins,N_NP,12.25
+2026-11-22,Dango Penguins,N_R,13.2
+2026-11-22,Dango Penguins,Regular_F,3.05
+2026-11-22,Dango Penguins,Regular_FR,3.45
+2026-11-22,Dango Penguins,Regular_NP,2.75
+2026-11-22,Electric Hornet,M_F,6.45
+2026-11-22,Electric Hornet,M_FR,7.5
+2026-11-22,Electric Hornet,M_NP,5.4
+2026-11-22,Electric Hornet,M_R,6.45
+2026-11-22,Electric Hornet,N_F,1.53
+2026-11-22,Electric Hornet,N_FR,1.8
+2026-11-22,Electric Hornet,N_NP,1.25
+2026-11-22,Electric Hornet,N_R,1.53
+2026-11-22,Electric Hornet,Regular_F,0.4
+2026-11-22,Electric Hornet,Regular_FR,0.65
+2026-11-22,Electric Hornet,Regular_NP,0.2
+2026-11-22,Elf Hat,Regular_NP,1.75
+2026-11-22,Field Mouse,M_F,108.9
+2026-11-22,Field Mouse,M_FR,110
+2026-11-22,Field Mouse,M_NP,107
+2026-11-22,Field Mouse,M_R,108
+2026-11-22,Field Mouse,N_F,26
+2026-11-22,Field Mouse,N_FR,27
+2026-11-22,Field Mouse,N_NP,25
+2026-11-22,Field Mouse,N_R,26
+2026-11-22,Firefighter Gibbon,M_F,6.2
+2026-11-22,Firefighter Gibbon,M_FR,7.25
+2026-11-22,Firefighter Gibbon,M_NP,5.15
+2026-11-22,Firefighter Gibbon,M_R,6.2
+2026-11-22,Firefighter Gibbon,N_F,1.48
+2026-11-22,Firefighter Gibbon,N_FR,1.75
+2026-11-22,Firefighter Gibbon,N_NP,1.2
+2026-11-22,Firefighter Gibbon,N_R,1.48
+2026-11-22,Firefighter Gibbon,Regular_F,0.39
+2026-11-22,Firefighter Gibbon,Regular_FR,0.64
+2026-11-22,Firefighter Gibbon,Regular_NP,0.19
+2026-11-22,Flash Weasel,M_F,178.9
+2026-11-22,Flash Weasel,M_FR,180
+2026-11-22,Flash Weasel,M_NP,177
+2026-11-22,Flash Weasel,M_R,178
+2026-11-22,Flash Weasel,N_F,42
+2026-11-22,Flash Weasel,N_FR,43
+2026-11-22,Flash Weasel,N_NP,41
+2026-11-22,Flash Weasel,N_R,42
+2026-11-22,Flash Weasel,Regular_F,9.95
+2026-11-22,Flash Weasel,Regular_FR,10.5
+2026-11-22,Flash Weasel,Regular_NP,9.5
+2026-11-22,Frostbite Bear,N_F,87
+2026-11-22,Frostbite Bear,N_FR,88
+2026-11-22,Frostbite Bear,N_NP,86
+2026-11-22,Frostbite Bear,N_R,87
+2026-11-22,Frostbite Bear,Regular_F,25.45
+2026-11-22,Frostbite Bear,Regular_FR,26
+2026-11-22,Frostbite Bear,Regular_NP,25
+2026-11-22,Ghost Chick,M_F,5.95
+2026-11-22,Ghost Chick,M_FR,7
+2026-11-22,Ghost Chick,M_NP,4.9
+2026-11-22,Ghost Chick,M_R,5.95
+2026-11-22,Ghost Chick,N_F,1.43
+2026-11-22,Ghost Chick,N_FR,1.7
+2026-11-22,Ghost Chick,N_NP,1.15
+2026-11-22,Ghost Chick,N_R,1.43
+2026-11-22,Ghost Chick,Regular_F,0.38
+2026-11-22,Ghost Chick,Regular_FR,0.63
+2026-11-22,Ghost Chick,Regular_NP,0.18
+2026-11-22,Giant Anteater,M_F,152.9
+2026-11-22,Giant Anteater,M_FR,154
+2026-11-22,Giant Anteater,M_NP,151
+2026-11-22,Giant Anteater,M_R,152
+2026-11-22,Giant Anteater,N_F,37.25
+2026-11-22,Giant Anteater,N_FR,38
+2026-11-22,Giant Anteater,N_NP,36.5
+2026-11-22,Giant Anteater,N_R,37.25
+2026-11-22,Giant Anteater,Regular_F,9.1
+2026-11-22,Giant Anteater,Regular_FR,9.5
+2026-11-22,Giant Anteater,Regular_NP,8.75
+2026-11-22,Giant Panda,Regular_F,169.85
+2026-11-22,Giant Panda,Regular_FR,171
+2026-11-22,Giant Panda,Regular_NP,170
+2026-11-22,Glacier Kitsune,M_F,98.9
+2026-11-22,Glacier Kitsune,M_FR,100
+2026-11-22,Glacier Kitsune,M_NP,97
+2026-11-22,Glacier Kitsune,M_R,98
+2026-11-22,Glacier Kitsune,N_F,23.2
+2026-11-22,Glacier Kitsune,N_FR,24
+2026-11-22,Glacier Kitsune,N_NP,22.25
+2026-11-22,Glacier Kitsune,N_R,23.2
+2026-11-22,Glacier Kitsune,Regular_F,5.6
+2026-11-22,Glacier Kitsune,Regular_FR,6
+2026-11-22,Glacier Moth,M_F,96.9
+2026-11-22,Glacier Moth,M_FR,98
+2026-11-22,Glacier Moth,M_NP,95
+2026-11-22,Glacier Moth,M_R,96
+2026-11-22,Goat,M_F,146.9
+2026-11-22,Goat,M_FR,148
+2026-11-22,Goat,M_NP,146
+2026-11-22,Goat,M_R,146
+2026-11-22,Goat,N_F,35
+2026-11-22,Goat,N_FR,36
+2026-11-22,Goat,N_NP,34
+2026-11-22,Goat,N_R,35
+2026-11-22,Goat,Regular_F,8.6
+2026-11-22,Goat,Regular_FR,9
+2026-11-22,Goat,Regular_NP,8.25
+2026-11-22,Grim Dragon,N_F,67
+2026-11-22,Grim Dragon,N_FR,68
+2026-11-22,Grim Dragon,N_NP,66
+2026-11-22,Grim Dragon,N_R,67
+2026-11-22,Grim Dragon,Regular_F,27.45
+2026-11-22,Grim Dragon,Regular_FR,28
+2026-11-22,Grim Dragon,Regular_NP,27
+2026-11-22,Groundhog,M_F,106.9
+2026-11-22,Groundhog,M_FR,108
+2026-11-22,Groundhog,M_NP,106
+2026-11-22,Groundhog,M_R,106
+2026-11-22,Groundhog,N_F,25
+2026-11-22,Groundhog,N_FR,26
+2026-11-22,Groundhog,N_NP,24
+2026-11-22,Groundhog,N_R,25
+2026-11-22,Groundhog,Regular_F,6.1
+2026-11-22,Groundhog,Regular_FR,6.5
+2026-11-22,Groundhog,Regular_NP,5.75
+2026-11-22,Haetae,Regular_F,146.85
+2026-11-22,Haetae,Regular_FR,148
+2026-11-22,Haetae,Regular_NP,147
+2026-11-22,Haetyphoon,M_F,178.9
+2026-11-22,Haetyphoon,M_FR,180
+2026-11-22,Haetyphoon,M_NP,177
+2026-11-22,Haetyphoon,M_R,178
+2026-11-22,Haetyphoon,N_F,42
+2026-11-22,Haetyphoon,N_FR,43
+2026-11-22,Haetyphoon,N_NP,41
+2026-11-22,Haetyphoon,N_R,42
+2026-11-22,Haetyphoon,Regular_F,9.95
+2026-11-22,Haetyphoon,Regular_FR,10.5
+2026-11-22,Haetyphoon,Regular_NP,9.5
+2026-11-22,Harp Seal,M_F,28.9
+2026-11-22,Harp Seal,M_FR,30
+2026-11-22,Harp Seal,M_NP,27
+2026-11-22,Harp Seal,M_R,28
+2026-11-22,Harp Seal,N_F,6.7
+2026-11-22,Harp Seal,N_FR,7.25
+2026-11-22,Harp Seal,N_NP,6.15
+2026-11-22,Harp Seal,N_R,6.7
+2026-11-22,Harp Seal,Regular_F,1.54
+2026-11-22,Harp Seal,Regular_FR,1.84
+2026-11-22,Harp Seal,Regular_NP,1.29
+2026-11-22,Hedgehog,M_NP,1209.5
+2026-11-22,Hedgehog,N_F,295
+2026-11-22,Hedgehog,N_FR,294
+2026-11-22,Hedgehog,N_NP,306
+2026-11-22,Hedgehog,N_R,295
+2026-11-22,Hedgehog,Regular_F,114.9
+2026-11-22,Hedgehog,Regular_FR,116
+2026-11-22,Hedgehog,Regular_NP,114.5
+2026-11-22,Honey Badger,M_F,102.9
+2026-11-22,Honey Badger,M_FR,104
+2026-11-22,Honey Badger,M_NP,101
+2026-11-22,Honey Badger,M_R,102
+2026-11-22,Honey Badger,N_F,24
+2026-11-22,Honey Badger,N_FR,25
+2026-11-22,Honey Badger,N_NP,23
+2026-11-22,Honey Badger,N_R,24
+2026-11-22,Honey Badger,Regular_F,5.85
+2026-11-22,Honey Badger,Regular_FR,6.25
+2026-11-22,Honey Badger,Regular_NP,5.5
+2026-11-22,Ice Golem,M_F,60.9
+2026-11-22,Ice Golem,M_FR,62
+2026-11-22,Ice Golem,M_NP,59
+2026-11-22,Ice Golem,M_R,60
+2026-11-22,Ice Golem,N_F,14.2
+2026-11-22,Ice Golem,N_FR,15
+2026-11-22,Ice Golem,N_NP,13.25
+2026-11-22,Ice Golem,N_R,14.2
+2026-11-22,Ice Golem,Regular_F,3.3
+2026-11-22,Ice Golem,Regular_FR,3.7
+2026-11-22,Ice Golem,Regular_NP,3
+2026-11-22,Ice Wolf,M_F,56.9
+2026-11-22,Ice Wolf,M_FR,58
+2026-11-22,Ice Wolf,M_NP,55
+2026-11-22,Ice Wolf,M_R,56
+2026-11-22,Ice Wolf,N_F,13.45
+2026-11-22,Ice Wolf,N_FR,14
+2026-11-22,Ice Wolf,N_NP,12.9
+2026-11-22,Ice Wolf,N_R,13.45
+2026-11-22,Ice Wolf,Regular_F,3.1
+2026-11-22,Ice Wolf,Regular_FR,3.5
+2026-11-22,Ice Wolf,Regular_NP,2.75
+2026-11-22,Jester Dragon,M_F,82.9
+2026-11-22,Jester Dragon,M_FR,84
+2026-11-22,Jester Dragon,M_NP,81
+2026-11-22,Jester Dragon,M_R,82
+2026-11-22,Jester Dragon,N_F,21
+2026-11-22,Jester Dragon,N_FR,22
+2026-11-22,Jester Dragon,N_NP,19.5
+2026-11-22,Jester Dragon,N_R,20.5
+2026-11-22,Jester Dragon,Regular_F,5.45
+2026-11-22,Jester Dragon,Regular_FR,6
+2026-11-22,Jester Dragon,Regular_NP,5
+2026-11-22,Matcha Cat,M_F,154.9
+2026-11-22,Matcha Cat,M_FR,156
+2026-11-22,Matcha Cat,M_NP,153
+2026-11-22,Matcha Cat,M_R,154
+2026-11-22,Matcha Cat,N_F,36.2
+2026-11-22,Matcha Cat,N_FR,37
+2026-11-22,Matcha Cat,N_NP,35.25
+2026-11-22,Matcha Cat,N_R,36.2
+2026-11-22,Matcha Cat,Regular_F,8.45
+2026-11-22,Matcha Cat,Regular_FR,9
+2026-11-22,Matcha Cat,Regular_NP,8
+2026-11-22,Mini Pig,M_F,468.9
+2026-11-22,Mini Pig,M_FR,470
+2026-11-22,Mini Pig,M_NP,480
+2026-11-22,Mini Pig,M_R,468
+2026-11-22,Mini Pig,N_F,134
+2026-11-22,Mini Pig,N_FR,135
+2026-11-22,Mini Pig,N_NP,133
+2026-11-22,Mini Pig,N_R,134
+2026-11-22,Monkey King,M_F,590
+2026-11-22,Monkey King,M_FR,540
+2026-11-22,Monkey King,M_R,565
+2026-11-22,Munchkin Cat,M_F,106.9
+2026-11-22,Munchkin Cat,M_FR,108
+2026-11-22,Munchkin Cat,M_NP,105
+2026-11-22,Munchkin Cat,M_R,106
+2026-11-22,Munchkin Cat,N_F,38.25
+2026-11-22,Munchkin Cat,N_FR,39
+2026-11-22,Munchkin Cat,N_NP,37.5
+2026-11-22,Munchkin Cat,N_R,38.25
+2026-11-22,Naughty Mistletroll,M_F,48.9
+2026-11-22,Naughty Mistletroll,M_FR,50
+2026-11-22,Naughty Mistletroll,M_NP,47
+2026-11-22,Naughty Mistletroll,M_R,48
+2026-11-22,Naughty Mistletroll,N_F,11.2
+2026-11-22,Naughty Mistletroll,N_FR,12
+2026-11-22,Naughty Mistletroll,N_NP,10.25
+2026-11-22,Naughty Mistletroll,N_R,11.2
+2026-11-22,Naughty Mistletroll,Regular_F,2.6
+2026-11-22,Naughty Mistletroll,Regular_FR,3
+2026-11-22,Naughty Mistletroll,Regular_NP,2.25
+2026-11-22,Nessie,M_F,110.9
+2026-11-22,Nessie,M_FR,112
+2026-11-22,Nessie,M_NP,117
+2026-11-22,Nessie,M_R,110
+2026-11-22,Nessie,N_F,27.2
+2026-11-22,Nessie,N_FR,28
+2026-11-22,Nessie,N_NP,26.25
+2026-11-22,Nessie,N_R,27.2
+2026-11-22,Officer Gibbon,M_F,6.2
+2026-11-22,Officer Gibbon,M_FR,7.25
+2026-11-22,Officer Gibbon,M_NP,5.15
+2026-11-22,Officer Gibbon,M_R,6.2
+2026-11-22,Officer Gibbon,N_F,1.48
+2026-11-22,Officer Gibbon,N_FR,1.75
+2026-11-22,Officer Gibbon,N_NP,1.2
+2026-11-22,Officer Gibbon,N_R,1.48
+2026-11-22,Officer Gibbon,Regular_F,0.39
+2026-11-22,Officer Gibbon,Regular_FR,0.64
+2026-11-22,Officer Gibbon,Regular_NP,0.19
+2026-11-22,Orchid Butterfly,M_F,1748.9
+2026-11-22,Orchid Butterfly,M_FR,1750
+2026-11-22,Orchid Butterfly,M_NP,1800
+2026-11-22,Orchid Butterfly,M_R,1748
+2026-11-22,Orchid Butterfly,N_F,449
+2026-11-22,Orchid Butterfly,N_FR,450
+2026-11-22,Orchid Butterfly,N_NP,458
+2026-11-22,Orchid Butterfly,N_R,449
+2026-11-22,Orchid Butterfly,Regular_F,116.85
+2026-11-22,Orchid Butterfly,Regular_FR,118
+2026-11-22,Orchid Butterfly,Regular_NP,116
+2026-11-22,Pancake Stack,Regular_NP,3.25
+2026-11-22,Peppermint Penguin,M_F,488.9
+2026-11-22,Peppermint Penguin,M_FR,490
+2026-11-22,Peppermint Penguin,M_NP,505
+2026-11-22,Peppermint Penguin,M_R,488
+2026-11-22,Pupcicle,M_F,19.1
+2026-11-22,Pupcicle,M_FR,20.2
+2026-11-22,Pupcicle,M_NP,17.2
+2026-11-22,Pupcicle,M_R,18.2
+2026-11-22,Pupcicle,N_F,4.38
+2026-11-22,Pupcicle,N_FR,4.8
+2026-11-22,Pupcicle,N_NP,3.95
+2026-11-22,Pupcicle,N_R,4.38
+2026-11-22,Pupcicle,Regular_F,1.02
+2026-11-22,Pupcicle,Regular_FR,1.3
+2026-11-22,Pupcicle,Regular_NP,0.8
+2026-11-22,Royal Mistletroll,M_F,410.9
+2026-11-22,Royal Mistletroll,M_FR,412
+2026-11-22,Royal Mistletroll,M_NP,417
+2026-11-22,Royal Mistletroll,M_R,410
+2026-11-22,Royal Mistletroll,N_F,101
+2026-11-22,Royal Mistletroll,N_FR,102
+2026-11-22,Royal Mistletroll,N_NP,100
+2026-11-22,Royal Mistletroll,N_R,101
+2026-11-22,Royal Mistletroll,Regular_F,24.95
+2026-11-22,Royal Mistletroll,Regular_FR,25.5
+2026-11-22,Royal Mistletroll,Regular_NP,24.5
+2026-11-22,Sakura Spirit,M_F,112.9
+2026-11-22,Sakura Spirit,M_FR,114
+2026-11-22,Sakura Spirit,M_NP,111
+2026-11-22,Sakura Spirit,M_R,112
+2026-11-22,Sakura Spirit,N_F,27.2
+2026-11-22,Sakura Spirit,N_FR,28
+2026-11-22,Sakura Spirit,N_NP,26.25
+2026-11-22,Sakura Spirit,N_R,27.2
+2026-11-22,Sakura Spirit,Regular_F,6.95
+2026-11-22,Sakura Spirit,Regular_FR,7.5
+2026-11-22,Sakura Spirit,Regular_NP,6.5
+2026-11-22,Santa Hat,Regular_NP,4
+2026-11-22,Sheeeeep,M_F,126.9
+2026-11-22,Sheeeeep,M_FR,128
+2026-11-22,Sheeeeep,M_NP,128
+2026-11-22,Sheeeeep,M_R,126
+2026-11-22,Sheeeeep,N_F,30
+2026-11-22,Sheeeeep,N_FR,31
+2026-11-22,Sheeeeep,N_NP,29
+2026-11-22,Sheeeeep,N_R,30
+2026-11-22,Sheeeeep,Regular_F,7.35
+2026-11-22,Sheeeeep,Regular_FR,7.75
+2026-11-22,Sheeeeep,Regular_NP,7
+2026-11-22,Siamese Cat,M_F,162.9
+2026-11-22,Siamese Cat,M_FR,164
+2026-11-22,Siamese Cat,M_NP,161
+2026-11-22,Siamese Cat,M_R,162
+2026-11-22,Strawberry Shortcake Bat Dragon,M_F,523.9
+2026-11-22,Strawberry Shortcake Bat Dragon,M_FR,525
+2026-11-22,Strawberry Shortcake Bat Dragon,M_NP,538
+2026-11-22,Strawberry Shortcake Bat Dragon,M_R,523
+2026-11-22,Strawberry Shortcake Bat Dragon,N_F,169
+2026-11-22,Strawberry Shortcake Bat Dragon,N_FR,170
+2026-11-22,Strawberry Shortcake Bat Dragon,N_NP,170
+2026-11-22,Strawberry Shortcake Bat Dragon,N_R,169
+2026-11-22,Strawberry Shortcake Bat Dragon,Regular_F,76.85
+2026-11-22,Strawberry Shortcake Bat Dragon,Regular_FR,78
+2026-11-22,Strawberry Shortcake Bat Dragon,Regular_NP,76
+2026-11-22,Strawberry Tortle,M_F,528.9
+2026-11-22,Strawberry Tortle,M_FR,530
+2026-11-22,Strawberry Tortle,M_NP,527
+2026-11-22,Strawberry Tortle,M_R,528
+2026-11-22,Strawberry Tortle,N_F,129
+2026-11-22,Strawberry Tortle,N_FR,130
+2026-11-22,Strawberry Tortle,N_NP,128
+2026-11-22,Strawberry Tortle,N_R,129
+2026-11-22,Strawberry Tortle,Regular_F,31.45
+2026-11-22,Strawberry Tortle,Regular_FR,32
+2026-11-22,Strawberry Tortle,Regular_NP,31
+2026-11-22,Thunderfisher,M_F,3.18
+2026-11-22,Thunderfisher,M_FR,4
+2026-11-22,Thunderfisher,M_NP,2.35
+2026-11-22,Thunderfisher,M_R,3.18
+2026-11-22,Thunderfisher,N_F,0.35
+2026-11-22,Thunderfisher,N_FR,1.1
+2026-11-22,Thunderfisher,N_NP,0.55
+2026-11-22,Thunderfisher,N_R,0.35
+2026-11-22,Thunderfisher,Regular_F,0.27
+2026-11-22,Thunderfisher,Regular_FR,0.52
+2026-11-22,Thunderfisher,Regular_NP,0.07
+2026-11-22,Tió De Nadal,M_F,362.9
+2026-11-22,Tió De Nadal,M_FR,364
+2026-11-22,Tió De Nadal,M_NP,369
+2026-11-22,Tió De Nadal,M_R,362
+2026-11-22,Tió De Nadal,N_F,89
+2026-11-22,Tió De Nadal,N_FR,90
+2026-11-22,Tió De Nadal,N_NP,88
+2026-11-22,Tió De Nadal,N_R,89
+2026-11-22,Tió De Nadal,Regular_F,21.95
+2026-11-22,Tió De Nadal,Regular_FR,22.5
+2026-11-22,Tió De Nadal,Regular_NP,21.5
+2026-11-22,Tri-Horned Treehopper,M_F,110.9
+2026-11-22,Tri-Horned Treehopper,M_FR,112
+2026-11-22,Tri-Horned Treehopper,M_NP,109
+2026-11-22,Tri-Horned Treehopper,M_R,110
+2026-11-22,Tri-Horned Treehopper,N_F,26
+2026-11-22,Tri-Horned Treehopper,N_FR,27
+2026-11-22,Tri-Horned Treehopper,N_NP,25
+2026-11-22,Tri-Horned Treehopper,N_R,26
+2026-11-22,Tri-Horned Treehopper,Regular_F,6.35
+2026-11-22,Tri-Horned Treehopper,Regular_FR,6.75
+2026-11-22,Tri-Horned Treehopper,Regular_NP,6
+2026-11-22,Turtle,Regular_F,27.1
+2026-11-22,Turtle,Regular_FR,28.25
+2026-11-22,Turtle,Regular_NP,25.75
+2026-11-22,Tuxedo Cat,M_F,22.1
+2026-11-22,Tuxedo Cat,M_FR,23.2
+2026-11-22,Tuxedo Cat,M_NP,20.2
+2026-11-22,Tuxedo Cat,M_R,21.2
+2026-11-22,Tuxedo Cat,N_F,5.05
+2026-11-22,Tuxedo Cat,N_FR,5.55
+2026-11-22,Tuxedo Cat,N_NP,4.55
+2026-11-22,Tuxedo Cat,N_R,5.05
+2026-11-22,Tuxedo Cat,Regular_F,1.17
+2026-11-22,Tuxedo Cat,Regular_FR,1.45
+2026-11-22,Tuxedo Cat,Regular_NP,0.95
+2026-11-22,Werewolf,M_F,198.9
+2026-11-22,Werewolf,M_FR,200
+2026-11-22,Werewolf,M_NP,208
+2026-11-22,Werewolf,M_R,198
+2026-11-22,Werewolf,N_F,61
+2026-11-22,Werewolf,N_FR,62
+2026-11-22,Werewolf,N_NP,60
+2026-11-22,Werewolf,N_R,61
+2026-11-22,Werewolf,Regular_F,23.45
+2026-11-22,Werewolf,Regular_FR,24
+2026-11-22,Werewolf,Regular_NP,23
